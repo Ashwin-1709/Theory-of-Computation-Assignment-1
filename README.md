@@ -22,6 +22,7 @@ make # Compile your project and produce a ./bin/main executable file.
 
 ## Run Instructions:
 
-```sh
+```
 ./bin/main # Run the program
+Note: make sure that the input file "input.txt" is in the same directory as the makefile.
 ```
