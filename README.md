@@ -1,6 +1,7 @@
 # CS F351 Theory of Computation Assignment 1
 
 ### Problem Statement : 
+(Refer to ```Problem_Statement.pdf```)
 1. NFA simulation using multiprocessing
 2. Minimisation of DFA using Table filling Algorithm
 
