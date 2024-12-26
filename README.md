@@ -3,7 +3,7 @@
 ### Problem Statement : 
 (Refer to ```Problem_Statement.pdf```)
 1. NFA simulation using multiprocessing
-2. Minimisation of DFA using Table filling Algorithm
+2. Minimization of DFA using Table filling Algorithm
 
 ## Build Instructions
 1. Open a terminal.
